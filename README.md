@@ -14,6 +14,7 @@ Printe informasjon om en båt med kjennetegn ABC123, 100kw effekt, maksfart på 
 
 ## Tech: 
 .NET 8.0
+C# 12.0
 
 ## Acknowledgements
 
