@@ -13,8 +13,8 @@ Konsollprogrammet skal be bil 1 om å kjøre og printe dette I konsollet
 Printe informasjon om en båt med kjennetegn ABC123, 100kw effekt, maksfart på 30knop, 500kg bruttotonnasje.
 
 ## Tech: 
-.NET 8.0
-C# 12.0
+* .NET 8.0
+* C# 12.0
 
 ## Acknowledgements
 
